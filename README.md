@@ -1,4 +1,4 @@
 # project leader
 mrinmoy ghosh
-# ame name 
+# game name 
 simon say game
